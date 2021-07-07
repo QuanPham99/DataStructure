@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "java.home":"C:\\Users\\Quan Pham\\AppData\\Local\\Programs\\AdoptOpenJDK\\jdk-11.0.11.9-hotspot\\bin"
+    ],
+    "[json]": {
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+
+    }
+}
